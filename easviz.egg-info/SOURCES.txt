@@ -1,0 +1,9 @@
+README.md
+setup.py
+easviz/__init__.py
+easviz/generator.py
+easviz/git.py
+easviz.egg-info/PKG-INFO
+easviz.egg-info/SOURCES.txt
+easviz.egg-info/dependency_links.txt
+easviz.egg-info/top_level.txt
